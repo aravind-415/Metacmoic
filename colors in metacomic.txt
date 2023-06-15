@@ -1,0 +1,5 @@
+black: #000000
+cyan: #22fbfc
+purple: #e31de7
+light cyan: #dee8f2
+light purple: #ef9cf9
